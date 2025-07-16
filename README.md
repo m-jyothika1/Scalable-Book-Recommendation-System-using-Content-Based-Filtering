@@ -7,7 +7,8 @@ A content-based book recommendation system built using Python, Flask, and Redis.
 
 ## 📈 Project Results
 
-![Project Results](project_results_charts.png)
+![Project Results](<img width="2000" height="800" alt="project_results_charts" src="https://github.com/user-attachments/assets/2fa4edcd-74a7-4a6a-a8e4-eb5599e02807" />
+)
 
 ---
 
